@@ -1,0 +1,14 @@
+<svg height="174" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="174" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">5 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">├── UNMET PEER DEPENDENCY moment@&gt;= 2</tspan>
+<tspan x="10" y="90">└─┬ moment-range@3.0.3 </tspan>
+<tspan x="10" y="106">  └─┬ es6-symbol@3.1.1 </tspan>
+<tspan x="10" y="122">    ├── d@1.0.0 </tspan>
+<tspan x="10" y="138">    └─┬ es5-ext@0.10.15 </tspan>
+<tspan x="10" y="154">      └── es6-iterator@2.0.1</tspan>
+</text>
+</svg>
