@@ -1,6 +1,6 @@
 # npmdoc-moment-range
 
-#### api documentation for  [moment-range (v3.0.3)](https://github.com/gf3/moment-range)  [![npm package](https://img.shields.io/npm/v/npmdoc-moment-range.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-moment-range) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-moment-range.svg)](https://travis-ci.org/npmdoc/node-npmdoc-moment-range)
+#### basic api documentation for  [moment-range (v3.0.3)](https://github.com/gf3/moment-range)  [![npm package](https://img.shields.io/npm/v/npmdoc-moment-range.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-moment-range) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-moment-range.svg)](https://travis-ci.org/npmdoc/node-npmdoc-moment-range)
 
 #### Fancy date ranges for Moment.js
 
